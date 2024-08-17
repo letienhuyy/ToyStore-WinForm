@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ShopDoChoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_kind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_kind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\ShopDoChoi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\ShopDoChoi\\class\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:class\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\ShopDoChoi\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\ShopDoChoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Sales.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\UC_Sales.cs",
+              "RelativeDocumentMoniker": "UC_Sales.cs",
+              "ToolTip": "D:\\ShopDoChoi\\UC_Sales.cs",
+              "RelativeToolTip": "UC_Sales.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAcwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:11:38.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uc_product.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\uc_product.cs",
+              "RelativeDocumentMoniker": "uc_product.cs",
+              "ToolTip": "D:\\ShopDoChoi\\uc_product.cs",
+              "RelativeToolTip": "uc_product.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAA2wF4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:10:11.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "uc_kind.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\uc_kind.cs",
+              "RelativeDocumentMoniker": "uc_kind.cs",
+              "ToolTip": "D:\\ShopDoChoi\\uc_kind.cs",
+              "RelativeToolTip": "uc_kind.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA2wC4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:10:00.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Customer.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\UC_Customer.cs",
+              "RelativeDocumentMoniker": "UC_Customer.cs",
+              "ToolTip": "D:\\ShopDoChoi\\UC_Customer.cs",
+              "RelativeToolTip": "UC_Customer.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA2wFUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:09:40.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Account.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\UC_Account.cs",
+              "RelativeDocumentMoniker": "UC_Account.cs",
+              "ToolTip": "D:\\ShopDoChoi\\UC_Account.cs",
+              "RelativeToolTip": "UC_Account.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA2wCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:09:29.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\ShopDoChoi\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAcwGsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:27:56.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmlogin.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\frmlogin.cs",
+              "RelativeDocumentMoniker": "frmlogin.cs",
+              "ToolTip": "D:\\ShopDoChoi\\frmlogin.cs",
+              "RelativeToolTip": "frmlogin.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:25:16.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\Class\\Function.cs",
+              "RelativeDocumentMoniker": "Class\\Function.cs",
+              "ToolTip": "D:\\ShopDoChoi\\Class\\Function.cs",
+              "RelativeToolTip": "Class\\Function.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADgvygAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:27:14.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ShopDoChoi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:23:53.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmlogin.Designer.cs",
+              "DocumentMoniker": "D:\\ShopDoChoi\\frmlogin.Designer.cs",
+              "RelativeDocumentMoniker": "frmlogin.Designer.cs",
+              "ToolTip": "D:\\ShopDoChoi\\frmlogin.Designer.cs",
+              "RelativeToolTip": "frmlogin.Designer.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAtwHAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:23:33.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
