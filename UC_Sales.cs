@@ -112,7 +112,8 @@ namespace QuanLyShopDoChoi
         private void btnSell_Click(object sender, EventArgs e)
         {
             string sql;
-            int qty, qtyReserve, totalAmount, newTotalAmount;
+            int qty, qtyReserve;
+            decimal totalAmount, newTotalAmount;
 
             sql = "Select BillID from Bill Where BillID = '" + txtBillID.Text + "'";
             if (!Function.checkKey(sql))
@@ -169,8 +170,8 @@ namespace QuanLyShopDoChoi
             Function.RunSQL(sql);
 
             // Cặp nhật lại tổng tiền cho hóa đơn bán
-            totalAmount = Convert.ToInt32(Function.GetFieldValue("SELECT TotalAmount FROM Bill where BillID = '" + txtBillID.Text + "'"));
-            newTotalAmount = totalAmount + Convert.ToInt32(txtAmount.Text);
+            totalAmount = Convert.ToDecimal(Function.GetFieldValue("SELECT TotalAmount FROM Bill where BillID = '" + txtBillID.Text + "'"));
+            newTotalAmount = totalAmount + Convert.ToDecimal(txtAmount.Text);
             sql = "UPDATE Bill SET TotalAmount = " + newTotalAmount + " WHERE BillID = '" + txtBillID.Text + "'";
             Function.RunSQL(sql);
             lblTotalAmount.Text = newTotalAmount.ToString();
@@ -211,9 +212,10 @@ namespace QuanLyShopDoChoi
 
 
 
-        private int CalAmount()
+        private decimal CalAmount()
         {
-            int tt, sl, dg, gg;
+            int sl;
+            decimal tt,  dg, gg;
             if (txtQuantity.Text == "")
             {
                 sl = 0;
@@ -229,7 +231,7 @@ namespace QuanLyShopDoChoi
             }
             else
             {
-                gg = Convert.ToInt32(txtDiscount.Text);
+                gg = Convert.ToDecimal(txtDiscount.Text);
             }
 
             if (txtPrice.Text == "")
@@ -238,7 +240,7 @@ namespace QuanLyShopDoChoi
             }
             else
             {
-                dg = Convert.ToInt32(txtPrice.Text);
+                dg = Convert.ToDecimal(txtPrice.Text);
             }
 
             tt = sl * dg - sl * dg * gg / 100;

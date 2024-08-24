@@ -54,7 +54,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(429, 44);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Welcome To Pine Store";
+            this.label1.Text = "Welcome To 8 Ball Pool Store";
             // 
             // label2
             // 

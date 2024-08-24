@@ -65,3 +65,4 @@ D:\Toystore\obj\Debug\QuanLyShopDoChoi.csproj.GenerateResource.cache
 D:\Toystore\obj\Debug\QuanLyShopDoChoi.csproj.CoreCompileInputs.cache
 D:\Toystore\obj\Debug\QuanLyShopDoChoi.exe
 D:\Toystore\obj\Debug\QuanLyShopDoChoi.pdb
+D:\Toystore\obj\Debug\QuanLyShopDoChoi.frmChangePass.resources

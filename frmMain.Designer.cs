@@ -240,9 +240,9 @@
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(176)))), ((int)(((byte)(211)))));
             this.label2.Location = new System.Drawing.Point(14, 8);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(306, 19);
+            this.label2.Size = new System.Drawing.Size(449, 23);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Pine Store, 118 Thong Thien Hoc, Da Lat";
+            this.label2.Text = "8 Ball Pool Store, 51 Tran Khanh Du, P8, Da Lat";
             // 
             // panel4
             // 
@@ -264,7 +264,7 @@
             this.lblRole.ForeColor = System.Drawing.Color.White;
             this.lblRole.Location = new System.Drawing.Point(174, 55);
             this.lblRole.Name = "lblRole";
-            this.lblRole.Size = new System.Drawing.Size(62, 19);
+            this.lblRole.Size = new System.Drawing.Size(74, 23);
             this.lblRole.TabIndex = 3;
             this.lblRole.Text = "Admin";
             // 
@@ -275,7 +275,7 @@
             this.lblUserName.ForeColor = System.Drawing.Color.White;
             this.lblUserName.Location = new System.Drawing.Point(174, 20);
             this.lblUserName.Name = "lblUserName";
-            this.lblUserName.Size = new System.Drawing.Size(74, 19);
+            this.lblUserName.Size = new System.Drawing.Size(91, 23);
             this.lblUserName.TabIndex = 2;
             this.lblUserName.Text = "Ronaldo";
             // 
@@ -286,7 +286,7 @@
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(107, 55);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(46, 19);
+            this.label3.Size = new System.Drawing.Size(59, 23);
             this.label3.TabIndex = 1;
             this.label3.Text = "Role:";
             // 
@@ -297,7 +297,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(66, 20);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(87, 19);
+            this.label1.Size = new System.Drawing.Size(110, 23);
             this.label1.TabIndex = 0;
             this.label1.Text = "Welcome:";
             // 

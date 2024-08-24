@@ -32,13 +32,13 @@ namespace QuanLyShopDoChoi
         }
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            if (txtUsername.Text == "" || txtPassword.Text == "" || txtFullname.Text == "" || txtPhonenumber.Text == "" || CheckID() == true)
+            if (txtUsername.Text == "" ||  txtFullname.Text == "" || txtPhonenumber.Text == "" || CheckID() == true)
             {
                 MessageBox.Show("Add failure");
             }
             else
             {
-                string sql = "insert into Account(Username, Password, Fullname, Phonenumber, Role) values (N'" + txtUsername.Text + "', N'" + txtPassword.Text + "', N'" + txtFullname.Text + "', N'" + txtPhonenumber.Text + "', N'" + cboRole.Text + "')";
+                string sql = "insert into Account(Username, Password,  Fullname, Phonenumber, Role) values (N'" + txtUsername.Text + "',N'" + txtUsername.Text + "', N'" + txtFullname.Text + "', N'" + txtPhonenumber.Text + "', N'" + cboRole.Text + "')";
                 Function.RunSQL(sql);
                 LoadDataToDgv();
             }
@@ -51,23 +51,8 @@ namespace QuanLyShopDoChoi
         private void LoadDataToDgv()
         {
             string sql;
-            sql = "SELECT * FROM Account";
+            sql = "SELECT UserName, FullName, PhoneNumber, Role FROM Account";
             datatbl = Function.GetDataToTable(sql);
-
-            // Tạo cột password và thêm vào DataGridView
-            var passwordColumn = new PasswordDataGridViewColumn
-            {
-                Name = "PasswordColumn",
-                HeaderText = "Password",
-                DataPropertyName = "Password", // Tên thuộc tính dữ liệu
-                Width = 150,                
-            };
-            dgvAccount.Columns.Add(new DataGridViewTextBoxColumn { Name = "UsernameColumn", HeaderText = "Username", DataPropertyName = "Username" });
-            dgvAccount.Columns.Add(passwordColumn);
-            dgvAccount.Columns.Add(new DataGridViewTextBoxColumn { Name = "FullNameColumn", HeaderText = "Full Name", DataPropertyName = "FullName" });
-            dgvAccount.Columns.Add(new DataGridViewTextBoxColumn { Name = "PhoneNumberColumn", HeaderText = "Phone Number", DataPropertyName = "PhoneNumber" });
-            dgvAccount.Columns.Add(new DataGridViewTextBoxColumn { Name = "RoleColumn", HeaderText = "Role", DataPropertyName = "Role" });
-            dgvAccount.Columns["PasswordColumn"].DisplayIndex = 1;
             dgvAccount.DataSource = datatbl;
             FillCbb();
             dgvAccount.EditMode = DataGridViewEditMode.EditProgrammatically;
@@ -83,13 +68,13 @@ namespace QuanLyShopDoChoi
         }
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            if (txtUsername.Text == "" || txtPassword.Text == "" || txtFullname.Text == "" || txtPhonenumber.Text == "")
+            if (txtUsername.Text == "" || txtFullname.Text == "" || txtPhonenumber.Text == "")
             {
                 MessageBox.Show("Update failed");         
             }
             else
             {
-                string sql = "update Account set Password= N'" + txtPassword.Text + "', Fullname= N'" + txtFullname.Text + "', Phonenumber= N'" + txtPhonenumber.Text + "', Role= N'" + cboRole.Text + "' where Username= N'" + txtUsername.Text + "'";
+                string sql = "update Account set Fullname= N'" + txtFullname.Text + "', Phonenumber= N'" + txtPhonenumber.Text + "', Role= N'" + cboRole.Text + "' where Username= N'" + txtUsername.Text + "'";
                 Function.RunSQL(sql);
 
                 MessageBox.Show("Update successful");
@@ -100,10 +85,9 @@ namespace QuanLyShopDoChoi
         private void dgvAccount_Click(object sender, EventArgs e)
         {
             txtUsername.Text = dgvAccount.SelectedCells[0].Value.ToString();
-            txtPassword.Text = dgvAccount.SelectedCells[1].Value.ToString();
-            txtFullname.Text = dgvAccount.SelectedCells[2].Value.ToString();
-            txtPhonenumber.Text = dgvAccount.SelectedCells[3].Value.ToString();
-            cboRole.Text = dgvAccount.SelectedCells[4].Value.ToString();
+            txtFullname.Text = dgvAccount.SelectedCells[1].Value.ToString();
+            txtPhonenumber.Text = dgvAccount.SelectedCells[2].Value.ToString();
+            cboRole.Text = dgvAccount.SelectedCells[3].Value.ToString();
             btnUpdate.Enabled = true;
             btnDelete.Enabled = true;
         }
@@ -125,7 +109,6 @@ namespace QuanLyShopDoChoi
         private void ClearText()
         {
             txtUsername.Text = "";
-            txtPassword.Text = "";
             txtFullname.Text = "";
             txtPhonenumber.Text = "";
             cboRole.SelectedIndex = -1;
@@ -135,6 +118,20 @@ namespace QuanLyShopDoChoi
         private void btnClear_Click(object sender, EventArgs e)
         {
             ClearText();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_changePassword_Click(object sender, EventArgs e)
+        {
+            using (frmChangePass changePasswordForm = new frmChangePass())
+            {
+                changePasswordForm.UserName = dgvAccount.SelectedCells[0].Value.ToString();
+                changePasswordForm.ShowDialog();
+            }
         }
     }
 }
