@@ -170,4 +170,25 @@ namespace QuanLyShopDoChoi.Class
             return h;
         }
     }
+
+    public class PasswordDataGridViewCell : DataGridViewTextBoxCell
+    {
+        protected override object GetValue(int rowIndex)
+        {
+            var value = base.GetValue(rowIndex) as string;
+            if (value == null)
+            {
+                return string.Empty;
+            }
+
+            return new string('*', value.Length);
+        }
+    }
+
+    public class PasswordDataGridViewColumn : DataGridViewColumn
+    {
+        public PasswordDataGridViewColumn() : base(new PasswordDataGridViewCell())
+        {
+        }
+    }
 }

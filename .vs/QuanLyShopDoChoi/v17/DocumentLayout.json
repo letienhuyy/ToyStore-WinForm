@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ShopDoChoi\\",
+  "WorkspaceRootPath": "D:\\Toystore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_kind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_kind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\shopdochoi\\uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\Toystore\\uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\ShopDoChoi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\toystore\\uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\ShopDoChoi\\class\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\Toystore\\class\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:class\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\ShopDoChoi\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\Toystore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\ShopDoChoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|d:\\toystore\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\Toystore\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\Toystore\\uc_kind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_kind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\Toystore\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\Toystore\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|D:\\Toystore\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96AEE0-CBAC-41CA-95A1-E4498128CF41}|QuanLyShopDoChoi.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,131 +50,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UC_Sales.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\UC_Sales.cs",
-              "RelativeDocumentMoniker": "UC_Sales.cs",
-              "ToolTip": "D:\\ShopDoChoi\\UC_Sales.cs",
-              "RelativeToolTip": "UC_Sales.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAcwHwAAAAAAAAA",
+              "Title": "UC_Account.cs [Design]",
+              "DocumentMoniker": "D:\\Toystore\\UC_Account.cs",
+              "RelativeDocumentMoniker": "UC_Account.cs",
+              "ToolTip": "D:\\Toystore\\UC_Account.cs [Design]",
+              "RelativeToolTip": "UC_Account.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T04:11:38.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T06:39:19.433Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "uc_product.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\uc_product.cs",
+              "DocumentMoniker": "D:\\Toystore\\uc_product.cs",
               "RelativeDocumentMoniker": "uc_product.cs",
-              "ToolTip": "D:\\ShopDoChoi\\uc_product.cs",
+              "ToolTip": "D:\\Toystore\\uc_product.cs",
               "RelativeToolTip": "uc_product.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAA2wF4AAAAfAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAADwv14AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T04:10:11.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "uc_kind.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\uc_kind.cs",
+              "DocumentMoniker": "D:\\Toystore\\uc_kind.cs",
               "RelativeDocumentMoniker": "uc_kind.cs",
-              "ToolTip": "D:\\ShopDoChoi\\uc_kind.cs",
+              "ToolTip": "D:\\Toystore\\uc_kind.cs",
               "RelativeToolTip": "uc_kind.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAA2wC4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T04:10:00.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T04:10:00.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UC_Customer.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\UC_Customer.cs",
+              "DocumentMoniker": "D:\\Toystore\\UC_Customer.cs",
               "RelativeDocumentMoniker": "UC_Customer.cs",
-              "ToolTip": "D:\\ShopDoChoi\\UC_Customer.cs",
+              "ToolTip": "D:\\Toystore\\UC_Customer.cs",
               "RelativeToolTip": "UC_Customer.cs",
               "ViewState": "AQIAAE0AAAAAAAAAAAA2wFUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T04:09:40.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T04:09:40.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UC_Account.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\UC_Account.cs",
+              "DocumentMoniker": "D:\\Toystore\\UC_Account.cs",
               "RelativeDocumentMoniker": "UC_Account.cs",
-              "ToolTip": "D:\\ShopDoChoi\\UC_Account.cs",
+              "ToolTip": "D:\\Toystore\\UC_Account.cs",
               "RelativeToolTip": "UC_Account.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAA2wCgAAAAdAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAnwDUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T04:09:29.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "frmMain.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\frmMain.cs",
+              "DocumentMoniker": "D:\\Toystore\\frmMain.cs",
               "RelativeDocumentMoniker": "frmMain.cs",
-              "ToolTip": "D:\\ShopDoChoi\\frmMain.cs",
+              "ToolTip": "D:\\Toystore\\frmMain.cs",
               "RelativeToolTip": "frmMain.cs",
               "ViewState": "AQIAAGUAAAAAAAAAAAAcwGsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T05:27:56.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T05:27:56.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "frmlogin.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\frmlogin.cs",
+              "DocumentMoniker": "D:\\Toystore\\frmlogin.cs",
               "RelativeDocumentMoniker": "frmlogin.cs",
-              "ToolTip": "D:\\ShopDoChoi\\frmlogin.cs",
+              "ToolTip": "D:\\Toystore\\frmlogin.cs",
               "RelativeToolTip": "frmlogin.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAAACMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T05:25:16.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T05:25:16.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Function.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\Class\\Function.cs",
+              "DocumentMoniker": "D:\\Toystore\\Class\\Function.cs",
               "RelativeDocumentMoniker": "Class\\Function.cs",
-              "ToolTip": "D:\\ShopDoChoi\\Class\\Function.cs",
+              "ToolTip": "D:\\Toystore\\Class\\Function.cs",
               "RelativeToolTip": "Class\\Function.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADgvygAAAAAAAAA",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAqwLYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T05:27:14.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\Program.cs",
+              "DocumentMoniker": "D:\\Toystore\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\ShopDoChoi\\Program.cs",
+              "ToolTip": "D:\\Toystore\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAoAAAAVAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T05:23:53.273Z"
+              "WhenOpened": "2024-08-15T05:23:53.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "frmlogin.Designer.cs",
-              "DocumentMoniker": "D:\\ShopDoChoi\\frmlogin.Designer.cs",
+              "DocumentMoniker": "D:\\Toystore\\frmlogin.Designer.cs",
               "RelativeDocumentMoniker": "frmlogin.Designer.cs",
-              "ToolTip": "D:\\ShopDoChoi\\frmlogin.Designer.cs",
+              "ToolTip": "D:\\Toystore\\frmlogin.Designer.cs",
               "RelativeToolTip": "frmlogin.Designer.cs",
               "ViewState": "AQIAAGQAAAAAAAAAAAAtwHAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

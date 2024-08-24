@@ -53,6 +53,21 @@ namespace QuanLyShopDoChoi
             string sql;
             sql = "SELECT * FROM Account";
             datatbl = Function.GetDataToTable(sql);
+
+            // Tạo cột password và thêm vào DataGridView
+            var passwordColumn = new PasswordDataGridViewColumn
+            {
+                Name = "PasswordColumn",
+                HeaderText = "Password",
+                DataPropertyName = "Password", // Tên thuộc tính dữ liệu
+                Width = 150,                
+            };
+            dgvAccount.Columns.Add(new DataGridViewTextBoxColumn { Name = "UsernameColumn", HeaderText = "Username", DataPropertyName = "Username" });
+            dgvAccount.Columns.Add(passwordColumn);
+            dgvAccount.Columns.Add(new DataGridViewTextBoxColumn { Name = "FullNameColumn", HeaderText = "Full Name", DataPropertyName = "FullName" });
+            dgvAccount.Columns.Add(new DataGridViewTextBoxColumn { Name = "PhoneNumberColumn", HeaderText = "Phone Number", DataPropertyName = "PhoneNumber" });
+            dgvAccount.Columns.Add(new DataGridViewTextBoxColumn { Name = "RoleColumn", HeaderText = "Role", DataPropertyName = "Role" });
+            dgvAccount.Columns["PasswordColumn"].DisplayIndex = 1;
             dgvAccount.DataSource = datatbl;
             FillCbb();
             dgvAccount.EditMode = DataGridViewEditMode.EditProgrammatically;
