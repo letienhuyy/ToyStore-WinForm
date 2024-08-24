@@ -72,7 +72,7 @@ ToyID int not null,
 Quantity float not null,
 Price money not null,
 Discount money null,
-Amout money not null,
+Amount money not null,
 primary key(BillID,ToyID)
 )
 
