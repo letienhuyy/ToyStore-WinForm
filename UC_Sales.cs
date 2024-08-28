@@ -173,6 +173,7 @@ namespace QuanLyShopDoChoi
             totalAmount = Convert.ToDecimal(Function.GetFieldValue("SELECT TotalAmount FROM Bill where BillID = '" + txtBillID.Text + "'"));
             newTotalAmount = totalAmount + Convert.ToDecimal(txtAmount.Text);
             sql = "UPDATE Bill SET TotalAmount = " + newTotalAmount + " WHERE BillID = '" + txtBillID.Text + "'";
+            //chay sql
             Function.RunSQL(sql);
             lblTotalAmount.Text = newTotalAmount.ToString();
             btnClear.Enabled = true;
